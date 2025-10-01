@@ -1,4 +1,4 @@
-# 🎵 Spotify Telegram Bot  
+# 🎵 Secret - Chat with Integrated Music Downloader  
 
 Bot Telegram ini menghubungkan **Spotify API** dengan **Telegram Bot** untuk mencari, mengunduh, dan mengirim lagu lengkap dengan metadata.  
 Selain itu, bot juga memiliki fitur **pesan rahasia**, **relay pesan**, dan **quiz interaktif** untuk Target User.  
