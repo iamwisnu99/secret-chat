@@ -1,0 +1,4 @@
+.env
+.cache
+bot_data.pkl
+bot_persistence_data.pickle
