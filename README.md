@@ -43,7 +43,7 @@ Selain itu, bot juga memiliki fitur **pesan rahasia**, **relay pesan**, dan **qu
    mv config.env .env
    ```
 
-2. Isi file `.env` dengan kredensial kamu:
+2. Isi file `config.env` dengan kredensial kamu lalu ubah file ke   `.env` :
 
    ```env
    # ------ Spotify Credentials ------
